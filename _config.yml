@@ -21,7 +21,7 @@ repository               : "iinemo/iinemo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "artem.png"
   name             : "Dr. Artem Shelmanov"
   #pronouns         : # example: "she/her"  
   bio              : "Sr. Research Scientist @ <a href='https://mbzuai.ac.ae/'>MBZUAI</a>"
