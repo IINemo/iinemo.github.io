@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Artem Shelmanov [NLP Research Scientist]"
+title                    : "Dr. Artem Shelmanov"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Artem Shelmanov"
+description              : &description "NLP Research Scientist"
+url                      : https://iinemo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "iinemo/iinemo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dr. Artem Shelmanov"
-  pronouns         : # example: "she/her"  
-  bio              : "NLP research scientist"
+  #pronouns         : # example: "she/her"  
+  bio              : "Sr. Research Scientist @ [MBZUAI](https://mbzuai.ac.ae/)"
   location         : "Abu Dhabi, UAE"
-  employer         : "Mohamed bin Zayed University of Artificial Intelligence: MBZUAI"
+  #employer         : "Mohamed bin Zayed University of Artificial Intelligence: MBZUAI"
   uri              : # URL
   email            : "artemshelmanov@gmail.com" 
 
