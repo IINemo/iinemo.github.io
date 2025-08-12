@@ -2,7 +2,7 @@
 title: "Token-Level Density-Based Uncertainty Quantification Methods for Eliciting Truthfulness of Large Language Models"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+link: https://aclanthology.org/2025.naacl-long.113/
 venue: "NAACL-2025, oral"
 date: 2025-04-30
 location: "Albuquerque, New Mexico"
