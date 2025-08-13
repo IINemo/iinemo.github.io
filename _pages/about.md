@@ -11,5 +11,3 @@ I am an AI researcher passionate about advancing natural language processing (NL
 
 I lead a research team that develops robust uncertainty quantification (UQ) techniques to efficiently tackle LLM hallucinations. The team has created the most comprehensive UQ library for LLMs: [LM-Polygraph](https://github.com/IINemo/lm-polygraph).
 Our research aims to increase the applicability of AI technologies in safety-critical areas, such as healthcare and finance.
-
-Based in [Abu Dhabi, UAE](https://maps.app.goo.gl/uFErwJwPkSqTUbyz9), I welcome collaborations and discussions on these topics.
