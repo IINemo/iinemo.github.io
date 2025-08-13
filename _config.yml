@@ -25,7 +25,7 @@ author:
   name             : "Dr. Artem Shelmanov"
   #pronouns         : # example: "she/her"  
   bio              : "Sr. Research Scientist @ <a href='https://mbzuai.ac.ae/'>MBZUAI</a>"
-  location         : "Abu Dhabi, UAE"
+  location         : "<a href='https://maps.app.goo.gl/uFErwJwPkSqTUbyz9'>Abu Dhabi, UAE</a>"
   #employer         : "Mohamed bin Zayed University of Artificial Intelligence: MBZUAI"
   uri              : # URL
   email            : "artemshelmanov@gmail.com" 
