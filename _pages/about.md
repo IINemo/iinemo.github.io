@@ -10,7 +10,7 @@ redirect_from:
 
 I am an AI researcher committed to conducting high-impact research in natural language processing and artificial intelligence that drives positive change in the world. 
 <br><br>
-At [Mohamed bin Zayed University of Artificial Intelligence: MBZUAI](https://mbzuai.ac.ae/) (ranked 10th in AI globally), I work in the research group of [Prof. Timothy Baldwin](https://www.linkedin.com/in/timothybaldwin/) on one of the critical challenges in AI -- **LLM reliability**.
+At Mohamed bin Zayed University of Artificial Intelligence: MBZUAI (ranked 10th in AI globally), I work in the research group of [Prof. Timothy Baldwin](https://www.linkedin.com/in/timothybaldwin/) on one of the critical challenges in AI -- **LLM reliability**.
 As a team leader, I drive research into robust uncertainty quantification (UQ) methods, aiming to effectively **detect and mitigate LLM hallucinations**. 
 Our research aims to increase the applicability of AI technologies in safety-critical areas, such as healthcare and finance, as well as increase the performance of **multi-step reasoning systems such as LLM agents**. 
 <br><br>
