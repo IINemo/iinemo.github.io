@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Artem Shelmanov / NLP Research Scientist"
+title: "Dr. Artem Shelmanov / Assistant Professor of Practice"
 author_profile: true
 redirect_from: 
   - /about/
