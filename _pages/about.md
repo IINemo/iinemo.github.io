@@ -16,7 +16,13 @@ Our research aims to increase the applicability of AI technologies in safety-cri
 <br><br>
 My team has created the most comprehensive UQ library for LLMs: [LM-Polygraph](https://github.com/IINemo/lm-polygraph).
 <br><br>
-We have presented our tutorial ["Uncertainty Quantification for LLMs"](https://sites.google.com/view/acl2025-uncertainty-for-llms/) at ACL-2025 in Vienna and will have a 2nd edition at AAAI-2026!
+We have presented our tutorial ["Uncertainty Quantification for LLMs"](https://sites.google.com/view/acl2025-uncertainty-for-llms/) at ACL-2025 in Vienna, AAAI-2026, and ECIR-2026. Our new tutorial, **"Uncertainty Quantification: From Detecting LLM Hallucinations to Strengthening Reasoning and AI Agents,"** has been [accepted at NeurIPS-2026 in Sydney](https://www.linkedin.com/feed/update/urn:li:activity:7495134756410544128/). It focuses on uncertainty as a control signal for reliable reasoning, adaptive test-time compute, and safer tool use.
+
+## Recent News
+
+- **August 2026:** I presented **"Uncertainty Quantification for LLMs: From Hallucination Detection to Stronger Reasoning and Agentic AI"** at Aalborg University, Denmark.
+- **June 2026:** My PhD student **Gleb Kuzmin**, co-supervised with Prof. Ivan Smirnov, [successfully defended his thesis at HSE University](https://www.linkedin.com/feed/update/urn:li:activity:7486440233882767362/). Congratulations, Dr. Kuzmin!
+- **2026:** I received the [**Gold Reviewer** award at **ICML-2026**](https://www.linkedin.com/posts/artem-shelmanov-995553a8_icml2026-activity-7460430207225700352-bIAP), recognizing the quality of my reviews.
 
 ## Graduated Students
 
