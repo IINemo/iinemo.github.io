@@ -34,3 +34,9 @@ Awarded to our paper, **“M4: Multi-generator, Multi-domain, and Multi-lingual 
 **2022 · Artificial Intelligence Research Institute**
 
 Recognized for the successful implementation of research tasks and personal contribution to the development of the Institute.
+
+## Best Thesis Award Nomination
+
+**2011 · MEPhI University**
+
+Nominated for the Best Thesis Award for my thesis on methods of optimization with constraints, completed as part of my MSc & BSc in Computer Science.
