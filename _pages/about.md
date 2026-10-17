@@ -22,7 +22,10 @@ We have presented our tutorial ["Uncertainty Quantification for LLMs"](https://s
 
 - **2026 (upcoming):** I am co-organizing the tutorial [**"Uncertainty Quantification: From Detecting LLM Hallucinations to Strengthening Reasoning and AI Agents"**](https://www.linkedin.com/feed/update/urn:li:activity:7495134756410544128/) at **NeurIPS-2026 in Sydney**.
 - **2026:** Our paper [**"Uncertainty Quantification for Large Language Diffusion Models"**](https://arxiv.org/abs/2605.14570) has been accepted at **NeurIPS-2026** ([Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-zFR1g0AAAAJ&sortby=pubdate&citation_for_view=-zFR1g0AAAAJ:XoXfffV-tXoC)).
-- **2026:** Three of our papers have been accepted at **EMNLP-2026**, including **one oral presentation**.
+- **2026:** Three of our papers have been accepted at **EMNLP-2026**, including **one oral presentation**:
+  - [**"Bayesian Control for Coding Agents"**](https://arxiv.org/abs/2606.24453) — **Main Conference, oral presentation**.
+  - [**"Extending LLM Context via Associative Recurrent Memory"**](https://arxiv.org/abs/2607.11614) — **Findings**.
+  - [**"Uncertainty Guardrails for LLM-Based Medical Diagnostic Systems"**](https://openreview.net/forum?id=IoNtjadPRN) — **Industry Track**.
 - **2026:** Our workshop [**UncertaiNLP**](https://uncertainlp.github.io/) has been accepted at **EMNLP-2027**.
 - **29 October 2026 (upcoming):** I am co-organizing [**UncertaiNLP 2026: Third Workshop on Uncertainty-Aware NLP**](https://uncertainlp.github.io/) at **EMNLP-2026 in Budapest, Hungary**. The workshop received the **highest number of submissions among all EMNLP 2026 workshops**.
 - **August 2026:** I presented **"Uncertainty Quantification for LLMs: From Hallucination Detection to Stronger Reasoning and Agentic AI"** at Aalborg University, Denmark.
