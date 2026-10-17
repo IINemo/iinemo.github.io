@@ -33,6 +33,7 @@ We have presented our tutorial ["Uncertainty Quantification for LLMs"](https://s
 - **June 2026:** My PhD student **Gleb Kuzmin**, co-supervised with Prof. Ivan Smirnov, [successfully defended his thesis at HSE University](https://www.linkedin.com/feed/update/urn:li:activity:7486440233882767362/). Congratulations, Dr. Kuzmin!
 - **2026:** I received the [**Gold Reviewer** award at **ICML-2026**](https://www.linkedin.com/posts/artem-shelmanov-995553a8_icml2026-activity-7460430207225700352-bIAP), recognizing the quality of my reviews.
 - **2026:** I received the [**Outstanding Teaching Assistant and Peer Mentor - Researcher Award** at **MBZUAI**](https://www.linkedin.com/posts/artem-shelmanov-995553a8_mbzuai-nlp-activity-7427320306631061504-EnJ0), presented as part of the university’s fifth anniversary celebration.
+- **2025:** My PhD student [**Artem Vazhentsev**](https://www.linkedin.com/in/artem-vazhentsev-395448201/), co-supervised with Prof. Alexander Panchenko, successfully defended his PhD thesis with **cum laude distinction**. Congratulations, Dr. Vazhentsev!
 
 ## Graduated Students
 
