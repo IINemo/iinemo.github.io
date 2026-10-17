@@ -20,11 +20,11 @@ We have presented our tutorial ["Uncertainty Quantification for LLMs"](https://s
 
 ## Recent News
 
+- **2026 (upcoming):** I am co-organizing the tutorial [**"Uncertainty Quantification: From Detecting LLM Hallucinations to Strengthening Reasoning and AI Agents"**](https://www.linkedin.com/feed/update/urn:li:activity:7495134756410544128/) at **NeurIPS-2026 in Sydney**.
+- **2026:** Our paper [**"Uncertainty Quantification for Large Language Diffusion Models"**](https://arxiv.org/abs/2605.14570) has been accepted at **NeurIPS-2026** ([Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-zFR1g0AAAAJ&sortby=pubdate&citation_for_view=-zFR1g0AAAAJ:XoXfffV-tXoC)).
 - **2026:** Three of our papers have been accepted at **EMNLP-2026**, including **one oral presentation**.
 - **2026:** Our workshop [**UncertaiNLP**](https://uncertainlp.github.io/) has been accepted at **EMNLP-2027**.
 - **29 October 2026 (upcoming):** I am co-organizing [**UncertaiNLP 2026: Third Workshop on Uncertainty-Aware NLP**](https://uncertainlp.github.io/) at **EMNLP-2026 in Budapest, Hungary**. The workshop received the **highest number of submissions among all EMNLP 2026 workshops**.
-- **2026 (upcoming):** I am co-organizing the tutorial [**"Uncertainty Quantification: From Detecting LLM Hallucinations to Strengthening Reasoning and AI Agents"**](https://www.linkedin.com/feed/update/urn:li:activity:7495134756410544128/) at **NeurIPS-2026 in Sydney**.
-- **2026:** Our paper [**"Uncertainty Quantification for Large Language Diffusion Models"**](https://arxiv.org/abs/2605.14570) has been accepted at **NeurIPS-2026** ([Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-zFR1g0AAAAJ&sortby=pubdate&citation_for_view=-zFR1g0AAAAJ:XoXfffV-tXoC)).
 - **August 2026:** I presented **"Uncertainty Quantification for LLMs: From Hallucination Detection to Stronger Reasoning and Agentic AI"** at Aalborg University, Denmark.
 - **July 2026:** Our paper **"ReProbe: Efficient Test-Time Scaling of Multi-Step Reasoning by Probing Internal States of Large Language Models"** was presented as an [**oral presentation at ACL-2026 in San Diego**](https://www.linkedin.com/posts/artem-shelmanov-995553a8_acl2026-reprobe-thinkbooster-activity-7480108387452469248-gpWx).
 - **June 2026:** My PhD student **Gleb Kuzmin**, co-supervised with Prof. Ivan Smirnov, [successfully defended his thesis at HSE University](https://www.linkedin.com/feed/update/urn:li:activity:7486440233882767362/). Congratulations, Dr. Kuzmin!
