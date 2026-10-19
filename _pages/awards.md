@@ -29,12 +29,6 @@ Awarded to our paper, **“M4: Multi-generator, Multi-domain, and Multi-lingual 
 
 [Paper](https://aclanthology.org/2024.eacl-long.83/)
 
-## Special Recognition — AIRI
-
-**2022 · Artificial Intelligence Research Institute**
-
-Recognized for the successful implementation of research tasks and personal contribution to the development of the Institute.
-
 ## Best Thesis Award Nomination
 
 **2011 · MEPhI University**
